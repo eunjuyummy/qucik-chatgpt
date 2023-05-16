@@ -4,7 +4,7 @@ st.title("Chatgpt")
 
 st.text_input("Prompt")
 
-if prompt:
+if Prompt:
   # call chatgpt api
   # response
   message = "Response"
